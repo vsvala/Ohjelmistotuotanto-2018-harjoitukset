@@ -1,0 +1,2 @@
+# Ohjelmistotuotanto-2018-harjoitukset
+Ohjelmistotuotantokurssin laskariharjoituksia
