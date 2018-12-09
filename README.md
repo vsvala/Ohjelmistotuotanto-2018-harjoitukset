@@ -28,7 +28,7 @@ Ohjelmistotuotantokurssin laskariharjoituksia
 17. Prepositorion forkkaaminen
 
 
-[Viikko 2](https://github.com/vsvala/ohtu-viikko2)
+# [Viikko 2](https://github.com/vsvala/ohtu-viikko2)
 
 1. Gradlen perusteita, projektin psytytys
 2. checkstyle: koodin staattinen analyysi 
