@@ -7,6 +7,7 @@ Ohjelmistotuotantokurssin laskariharjoituksia
 [Viikko 4](https://github.com/vsvala/ohtu-viikko2)
 [Viikko 5](https://github.com/vsvala/ohtu-viikko2)
 [Viikko 6](https://github.com/vsvala/Ohjelmistotuotanto-2018-harjoitukset/tree/master/viikko6)
+[Viikko 7](https://github.com/vsvala/Ohjelmistotuotanto-2018-harjoitukset/tree/master/viikko7)
 
 # [Viikko 1](https://github.com/vsvala/ohtu-viikko1)
 
