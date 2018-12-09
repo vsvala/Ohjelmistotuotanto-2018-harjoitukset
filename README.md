@@ -27,3 +27,19 @@ Ohjelmistotuotantokurssin laskariharjoituksia
 16. NHLStatistics-ohjelman yksikkötestaus
 17. Prepositorion forkkaaminen
 
+
+[Viikko 2](https://github.com/vsvala/ohtu-viikko2)
+
+1. Gradlen perusteita, projektin psytytys
+2. checkstyle: koodin staattinen analyysi 
+3. codacy
+4. git: branchit
+5. git: branchit ja staging-alue
+6. git: konflikti!
+7. git: branchit ja GitHub
+8. git: epäajantasaisen kopion pushaaminen
+9. riippuvuuksien injektointi osa 3: Verkkokauppa
+10. riippuvuuksien injektointi osa 4: ei enää singletoneja verkkokaupassa
+11. Spring osa 1: riippuvuuksien injektointi
+12. Spring osa 2: Verkkokauppa siistiksi
+13. Spring osa 3: Verkkokauppa siistiksi annotaatioilla
