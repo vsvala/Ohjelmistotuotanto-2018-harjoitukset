@@ -69,3 +69,25 @@ Ohjelmistotuotantokurssin laskariharjoituksia
 6. Retrospektiivitekniikat
 7. git: monta etärepositorioa
 8. git: stash
+
+# [Viikko 5](https://github.com/vsvala/ohtu-viikko2)
+
+1. IntJoukon testaus ja siistiminen
+2. Tenniksen pisteenlaskun refaktorointi
+3. git: vahingossa tuhotun tiedoston palautus 
+4. git: commitin muutosten kumoaminen 
+5. git: branchin "siirtäminen"
+6. Git: rebase
+
+
+# [Viikko 6](https://github.com/vsvala/Ohjelmistotuotanto-2018-harjoitukset/tree/master/viikko6)
+
+1. Oliosuunnittelu Laskin ja komento-oliot, command suunnittelumalli 
+2. Undo
+3. Kyselykieli NHLStatistics-ohjelmaan,  dekoroitu pino,  composite-suunnittelumalli
+4. Parannettu kyselykieli, osa 1, pinorakentaja
+5. Parannettu kyselykieli, osa 2
+6. Contributing, Pull request ja toisten projektin refaktorointia 
+
+# [Viikko 7](https://github.com/vsvala/Ohjelmistotuotanto-2018-harjoitukset/tree/master/viikko7)
+
