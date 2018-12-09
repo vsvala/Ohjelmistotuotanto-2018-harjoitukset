@@ -34,9 +34,26 @@ public class Main {
 //                    new HasAtLeast(85, "points")
 //); 
 
-Matcher m = new HasFewerThan(1, "goals");  
-for (Player player : stats.matches(m)) {
-    System.out.println( player );
-}
+//Matcher m = new HasFewerThan(1, "goals");  
+//for (Player player : stats.matches(m)) {
+//    System.out.println( player );
+//}
+//
+// Querybuilder query = new Querybuilder();
+//    Matcher m = query.build();
+//
+//    for (Player player : stats.matches(m)) {
+//        System.out.println( player );
+//    }
+    Querybuilder query = new Querybuilder();
+ 
+    Matcher m = query.playsIn("NYR").build();
+ 
+    for (Player player : stats.matches(m)) {
+        System.out.println( player );
+    }
+  
+
+    
 }
 }

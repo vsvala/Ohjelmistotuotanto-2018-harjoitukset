@@ -24,12 +24,12 @@ public class All implements Matcher {
     @Override
     public boolean matches(Player p) {
         for (Matcher matcher : matchers) {
-            if (matcher.matches(p)) {
-                return false;
-            }
+           // if (matcher.matches(p)) {
+                return true;
+           // }
         }
 
-        return true;
+        return false;
     }
 }
 
