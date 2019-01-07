@@ -1,0 +1,6 @@
+# tehtävä6. Retrospektiivitekniikat
+
+## 1. Start, Stop, Continue, More of, Less of Wheel 
+Tällä tekniikalla hankitaan palautetta siitä, miten tiimityöskentelyä tulisi jatkaa ja mitä asioita oikaista tulevaa varten. Ajankäyttövaraus 10-25 min riipppuen tiimin koosta ja menneen työskentelyjakson pituudesta . Apuna käytetään pyörää/ympyrää joka on jaettu viiteen lohkoon Start, Stop, Continue, More of, Less of Wheel. Tiimiläiset  kirjaavat lohkoihin: Mitä pitäisi vielä tehdä?  Mitkä asiat eivät toimi ja pitäisi lopettaa? Mitä työtä jatketaan?  Ja Mitä  pitäisi tehdä enemmän? Vähemmän?  Vastaukset tai niiden tiivistelmä kirjataan posteriin. Metodia voitaisiin varioida suurille ryhmille tai isoille printeille esim. jakamalla hanke useaan osaan tai tekemällä ryhmistä alaryhmiä ja kirjoittamalla useita yhteenvetopostereita. 
+## 2. Glad, Sad, Mad
+Aikavaraus n.60 min. osallistujat kirjaavat  erikseen  lyhyitä positiivisia ja negatiiivisia havaintojaan sprintistä muistilapuille luokitellen ne kollmeen ryhmään: Glad, Sad, Mad.(10-15min). Myös projektin ulkopuolisia siihen vaikuttavia tekijöitä voi listata. Muistilaput asetetaan esille kategorioiden Mad Sad, Glad alle ja  niitä äänestetään. Seuraavaksi ne käsitellään äänimäärän mukaan tärkeysjärjestyksessä.

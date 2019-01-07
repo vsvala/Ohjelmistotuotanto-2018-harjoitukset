@@ -1,0 +1,15 @@
+/Verkkokauppa1/build/
+.gradle
+/HelloCucumber/.nb-gradle/
+/HelloCucumber/build/
+/LoginCucumber/.nb-gradle/
+*tmp
+build
+/RiippuvuuksienInjektointi1/.nb-gradle/
+/.nb-gradle/
+.gradle
+
+/WebLogin/.nb-gradle/
+/MockitoDemo/.nb-gradle/
+/MatkakorttiMockito/.nb-gradle/
+/VerkkokauppaSpring/.nb-gradle/

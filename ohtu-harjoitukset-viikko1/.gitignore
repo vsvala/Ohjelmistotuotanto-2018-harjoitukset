@@ -1,0 +1,6 @@
+*tmp
+build
+/RiippuvuuksienInjektointi1/.nb-gradle/
+/.nb-gradle/
+.gradle
+/NhlStatistics1/.nb-gradle/

@@ -1,0 +1,8 @@
+pekka;akkep
+jukka;akkuj
+Uus;Suu
+Viku;Viku
+Uusi;Isuu
+Uusittu;pass
+arto49239;pass
+arto93148;pass

@@ -1,0 +1,17 @@
+*tmp
+build
+/RiippuvuuksienInjektointi1/.nb-gradle/
+/.nb-gradle/
+.gradle
+/NhlStatistics1/.nb-gradle/
+/build
+*.tmp
+/RiippuvuuksienInjektointi1/.nb-gradle/
+/RiippuvuuksienInjektointi1/build/
+/NhlStatistics1/.nb-gradle/
+/NhlStatistics1/build/
+/Verkkokauppa1/build/
+/viikko3/Kurssistatistiikka/.nb-gradle/
+/viikko3/Kurssistatistiikka/build/
+/viikko3/HelloCucumber/build/
+/viikko3/WebLogin/.nb-gradle/
