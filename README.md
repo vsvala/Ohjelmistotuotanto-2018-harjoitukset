@@ -1,8 +1,8 @@
 # Ohjelmistotuotanto-2018-harjoitukset
 Ohjelmistotuotantokurssin laskariharjoituksia
 
-[Viikko 1](https://github.com/vsvala/ohtu-viikko1)
-[Viikko 2](https://github.com/vsvala/ohtu-viikko2)
+[Viikko 1](https://github.com/vsvala/Ohjelmistotuotanto-2018-harjoitukset/tree/master/ohtu-harjoituet-viikko1)
+[Viikko 2](https://github.com/vsvala/Ohjelmistotuotanto-2018-harjoitukset/tree/master/ohtu-harjoituet-viikko2)
 [Viikko 3](https://github.com/vsvala/ohtu-viikko2)
 [Viikko 4](https://github.com/vsvala/ohtu-viikko2)
 [Viikko 5](https://github.com/vsvala/ohtu-viikko2)
