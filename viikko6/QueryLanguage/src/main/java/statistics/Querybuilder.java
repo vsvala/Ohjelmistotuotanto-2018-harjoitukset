@@ -24,10 +24,12 @@ class Querybuilder {
 
     }
 
-    public Querybuilder playsIn(String nyr) {
-       Matcher matcher  = new And(new PlaysIn(nyr));
-        return this;
-    }
+//    public Querybuilder playsIn(String nyr) {
+//       Matcher matcher  = new PlaysIn(nyr);
+//        return matcher;
+//    }
+//    
+    
 
     Matcher build() {
         Matcher m = new All(new HasAtLeast(10, "goals"));         
