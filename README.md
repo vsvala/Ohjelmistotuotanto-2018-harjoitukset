@@ -1,15 +1,15 @@
 # Ohjelmistotuotanto-2018-harjoitukset
 Ohjelmistotuotantokurssin laskariharjoituksia
 
-[Viikko 1](https://github.com/vsvala/Ohjelmistotuotanto-2018-harjoitukset/tree/master/ohtu-harjoituet-viikko1)
+[Viikko 1](https://github.com/vsvala/Ohjelmistotuotanto-2018-harjoitukset/tree/master/ohtu-harjoitukset-viikko1)
 [Viikko 2](https://github.com/vsvala/Ohjelmistotuotanto-2018-harjoitukset/tree/master/ohtu-harjoituet-viikko2)
-[Viikko 3](https://github.com/vsvala/ohtu-viikko2)
-[Viikko 4](https://github.com/vsvala/ohtu-viikko2)
-[Viikko 5](https://github.com/vsvala/ohtu-viikko2)
+[Viikko 3](https://github.com/vsvala/Ohjelmistotuotanto-2018-harjoitukset/tree/master/ohtu-harjoituet-viikko2)
+[Viikko 4](https://github.com/vsvala/Ohjelmistotuotanto-2018-harjoitukset/tree/master/ohtu-harjoituet-viikko2)
+[Viikko 5](https://github.com/vsvala/Ohjelmistotuotanto-2018-harjoitukset/tree/master/ohtu-harjoituet-viikko2)
 [Viikko 6](https://github.com/vsvala/Ohjelmistotuotanto-2018-harjoitukset/tree/master/viikko6)
 [Viikko 7](https://github.com/vsvala/Ohjelmistotuotanto-2018-harjoitukset/tree/master/viikko7)
 
-# [Viikko 1](https://github.com/vsvala/ohtu-viikko1)
+# [Viikko 1](https://github.com/vsvala/Ohjelmistotuotanto-2018-harjoitukset/tree/master/ohtu-harjoitukset-viikko1)
 
 1. Komentorivin käyttö
 2. Github preposition kloonaus
@@ -28,7 +28,7 @@ Ohjelmistotuotantokurssin laskariharjoituksia
 17. Prepositorion forkkaaminen
 
 
-# [Viikko 2](https://github.com/vsvala/ohtu-viikko2)
+# [Viikko 2](https://github.com/vsvala/Ohjelmistotuotanto-2018-harjoitukset/tree/master/ohtu-harjoituet-viikko2)
 
 1. Gradlen perusteita, projektin psytytys
 2. checkstyle: koodin staattinen analyysi 
@@ -44,7 +44,7 @@ Ohjelmistotuotantokurssin laskariharjoituksia
 12. Spring osa 2: Verkkokauppa siistiksi
 13. Spring osa 3: Verkkokauppa siistiksi annotaatioilla
 
-# [Viikko 3](https://github.com/vsvala/ohtu-viikko2)
+# [Viikko 3](https://github.com/vsvala/Ohjelmistotuotanto-2018-harjoitukset/tree/master/ohtu-harjoituet-viikko2)
 
 1. lisää gradlea: riippuvuuksien lisääminen: Apache HttpClient Fluent API,  http://code.google.com/p/google-gson/
 2. json muodossa olevan tiedon haku netistä:kurssittainen erittely ja viikkomaksimit
@@ -60,7 +60,7 @@ Ohjelmistotuotantokurssin laskariharjoituksia
 12. Web-sovelluksen testaaminen osa 2
 13. Web-sovelluksen testaaminen osa 3
 
-# [Viikko 4](https://github.com/vsvala/ohtu-viikko2)
+# [Viikko 4](https://github.com/vsvala/Ohjelmistotuotanto-2018-harjoitukset/tree/master/ohtu-harjoituet-viikko2)
 1. git: tägit
 2. Yksikkötestaus ja riippuvuudet: Mockito, osa 1
 3. Yksikkötestaus ja riippuvuudet: Mockito, osa 2
@@ -70,7 +70,7 @@ Ohjelmistotuotantokurssin laskariharjoituksia
 7. git: monta etärepositorioa
 8. git: stash
 
-# [Viikko 5](https://github.com/vsvala/ohtu-viikko2)
+# [Viikko 5](https://github.com/vsvala/Ohjelmistotuotanto-2018-harjoitukset/tree/master/ohtu-harjoituet-viikko2)
 
 1. IntJoukon testaus ja siistiminen
 2. Tenniksen pisteenlaskun refaktorointi
